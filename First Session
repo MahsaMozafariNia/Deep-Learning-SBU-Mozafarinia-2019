@@ -1,1 +1,9 @@
-ddd
+#### First Session (Conda and enviroments for jupyter notebook)
+1. conda info (about installation and the version)
+2. conda create -n name of enviroment (make a new enviroment)
+3. conda activat name of enviroment (move in to the enviroment)
+4.conda install -n name of the package (install a package in this enviroment)
+####Blow codes are for adding an enviroment to jupyter notebook 
+5. conda install name of enviroment ipykernel
+6. python -m ipykernel install --user  --name name of enviroment   --display-name "name of enviroment(or the other name to display in jupyter notebook for the enviroment "
+
