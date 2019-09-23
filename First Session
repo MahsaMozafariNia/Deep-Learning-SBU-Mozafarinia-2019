@@ -6,4 +6,4 @@
 ####Blow codes are for adding an enviroment to jupyter notebook 
 5. conda install name of enviroment ipykernel
 6. python -m ipykernel install --user  --name name of enviroment   --display-name "name of enviroment(or the other name to display in jupyter notebook for the enviroment "
-
+7.conda deactivate (move out of the enviroment)
